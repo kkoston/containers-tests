@@ -8,3 +8,5 @@ git clone git@github.com:usatoday-smb/sdp-lawrence.git lawrence
 
 # clone the USAT plugins repository
 git clone git@github.com:usatoday-smb/sdp-wordpress-plugins.git usatoday-plugins
+
+echo "And the branch is:"$1
